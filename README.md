@@ -17,7 +17,7 @@ Run files in the following order.
 `python Baseline_comparison.py`
 
 ## **Requirements**
-This code is available at Python >= 3.6, but 3.8.1 is recommended.  
+This code is available at Python >= 3.6, but 3.8.15 is recommended.  
 To install required packages:  
 
 `pip install -r requirements.txt`
